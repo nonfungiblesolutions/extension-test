@@ -1,0 +1,11 @@
+{
+  "files": {
+    "background.js": "././background.js",
+    "index.js": "././index.js",
+    "index.css": "./static/css/index.8fec994d.css",
+    "index.html": "./index.html",
+    "background.js.map": "././background.js.map",
+    "index.js.map": "././index.js.map",
+    "index.8fec994d.css.map": "./static/css/index.8fec994d.css.map"
+  }
+}
